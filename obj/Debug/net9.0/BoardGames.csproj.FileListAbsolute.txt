@@ -1,0 +1,14 @@
+/Users/mitchellfuller/Desktop/BoardGames/bin/Debug/net9.0/BoardGames
+/Users/mitchellfuller/Desktop/BoardGames/bin/Debug/net9.0/BoardGames.deps.json
+/Users/mitchellfuller/Desktop/BoardGames/bin/Debug/net9.0/BoardGames.runtimeconfig.json
+/Users/mitchellfuller/Desktop/BoardGames/bin/Debug/net9.0/BoardGames.dll
+/Users/mitchellfuller/Desktop/BoardGames/bin/Debug/net9.0/BoardGames.pdb
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.AssemblyInfoInputs.cache
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.AssemblyInfo.cs
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.csproj.CoreCompileInputs.cache
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.dll
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/refint/BoardGames.dll
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.pdb
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/BoardGames.genruntimeconfig.cache
+/Users/mitchellfuller/Desktop/BoardGames/obj/Debug/net9.0/ref/BoardGames.dll
